@@ -50,4 +50,34 @@ Targeted Management Alignment: Partner with the Joplin District Manager this wee
 Establish a Compliance Deadline: Implement a firm two-week completion deadline for the district to bring Joplin in line with the corporate benchmark of 80% minimum compliance.
 Longitudinal Follow-up: Re-run the Power Query pipeline on [Insert Date - 2 weeks out] to measure growth velocity and report progress back to leadership.
 
+Visualizations: 
+The Scatter Plot Story: The scatter plot shows a general upward-sloping trend, confirming that employees who spent more time generally scored higher. However, it also exposes key exceptions. There is a dense cluster of "highly efficient learners" who spent only 25 to 35 minutes but achieved perfect scores of $100\%$. Crucially, you can see a small group of isolated dots in the bottom-left corner—users who rushed through the test in under 20 minutes and scored below 60%. This proves that low scores are strongly correlated with low time investment.
+The Histogram Story: The histogram shows a heavily right-skewed (negatively skewed) distribution. The tallest bars are clustered tightly between 85% and 100%, showing that the vast majority of the company understood the material perfectly. This visual tells the VP that the training program is highly effective for about 90% of the workforce, and that the 88% average isn't a fake metric driven by widespread guessing—it represents genuine master-level performance from most employees.
+
+### Evaluating the Financial Impact of a Training Program
+**File:** [Excel](https://docs.google.com/spreadsheets/d/1oBVcIsIJUAF0cUen84owDYgzx2uzYaYTcTBHfdHZsRQ/edit?usp=sharing)
+
+**Goal:** Evaluate the financial effectiveness of a newly launched Advanced Commercial Sales Training program and determine if the initiative drove meaningful revenue growth or if observed increases were merely the result of standard seasonal variance.
+
+**Description:** In this project, I simulated a common corporate Learning & Development challenge: proving the business value of a training program. Using separate datasets from the HR training roster and point-of-sale (POS) financial records, I built an automated data pipeline to merge the datasets, clean the records, and isolate performance metrics. To keep the data honest, I used a Control Group of stores that didn't get the training. This gave me a clear baseline for the seasonal market lift, so I could separate standard seasonal growth from the actual revenue spike driven by the training program.
+
+**Skills:** data cleaning, data analysis
+
+**Technology:** Mircosoft Excel, Power Query (Data trasnformation & merging), AI Generation (Dataset simulation), Pivot Tables (Aggregation), Data Visualization (Conditional formatting and charts)
+
+**Results:** While it's true the market experienced seasonal variance, the Control group proves that this was minimal. The stores that participated in the training program outpaced the seasonal variance by significant amount, a 23% increase from 3.5%. The Trained stores grew by an average of $12,500/month, while the Control stores only grew by an average of $1,500/month. 
+
+Key Data Insights:
+The Training Premium: Stores that participated in the training program achieved an average monthly sales growth of 26.5% (an average increase of $12,500 per store). 
+Disproving Market Seasonality: The Control Group (no training) only experienced a natural market lift of 3.5% (an average increase of $1,500 per store).
+The Net Delta: The trained stores outpaced the standard market growth by a net 23%, proving a strong causal relationship between the L&D curriculum and increased commercial sales.
+
+Recommended Actions:
+Full Regional Rollout: Based on the pilot success, I would recommend expanding the Advanced Commercial Sales Training to all 300 stores within the region.
+Revenue Projection: Scaling this program across the 300-store region projects a total regional performance lift of $3,750,000 per month.
+Opportunity Cost Mitigation: If leadership opts out of the training rollout and relies solely on natural market lift, the region is projected to capture only $450,000 in growth. We would miss out on an estimated $3.3 million in monthly revenue growth just by relying on standard seasonal variance.
+
+Visualizations: 
+Strategic Color-Coding: Used conditional formatting to draw the eye directly to the revenue growth outliers and establish an instant visual hierarchy.
+Executive Charts: Created clear charts that isolated the training group's growth curve against the control group, making the program's financial return obvious in seconds.
 
