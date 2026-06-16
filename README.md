@@ -22,7 +22,7 @@ Featured data projects showcasing practical applications of data cleaning, explo
 
 **Description:** I built a simulated L&D pipeline in Excel using Power Query to merge an HR roster with LMS training data for a new Customer Service training module. Utilizing AI to generate a realistic dataset, I constructed Pivot Tables to calculate completions, track training compliance, and analyze performance gaps. In this project, I acted as a Learning and Development Analyst who was tasked with interpreting the data to deliver actionable insights and strategic recommendations.
 
-**Skills:** data cleaning, data analysis, data visualization.
+**Skills:** data cleaning, data analysis, data visualization
 
 **Technology:** Mircosoft Excel, Power Query (Data modeling & merging), AI Generation (Dataset simulation), Pivot Tables (Aggregation)
 
@@ -48,7 +48,7 @@ The Histogram Story: The histogram shows a heavily right-skewed (negatively skew
 
 **Description:** In this project, I simulated a common corporate Learning & Development challenge: proving the business value of a training program. Using separate datasets from the HR training roster and point-of-sale (POS) financial records, I built an automated data pipeline to merge the datasets, clean the records, and isolate performance metrics. To keep the data honest, I used a Control Group of stores that didn't get the training. This gave me a clear baseline for the seasonal market lift, so I could separate standard seasonal growth from the actual revenue spike driven by the training program.
 
-**Skills:** data cleaning, data analysis
+**Skills:** data cleaning, data analysis, data visualization
 
 **Technology:** Mircosoft Excel, Power Query (Data trasnformation & merging), AI Generation (Dataset simulation), Pivot Tables (Aggregation), Data Visualization (Conditional formatting and charts)
 
