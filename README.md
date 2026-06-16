@@ -33,11 +33,6 @@ Featured data projects showcasing practical applications of data cleaning, explo
 
 **Goal:** Analyze and interpret training compliance data for a new Customer Service Training Module by merging disjointed HR and LMS datasets.
 
-In order to complete this objective, I will use the data to answer the following questions:
-1. What are the actual Completion Rates (percentages) for each district? Who is performing better?
-2. Joplin's completed number looks really low compared to Springfield. Looking at their other columns (In Progress vs. Not Started), what does that tell you about why Joplin is falling behind?
-3. Based on your analysis of Joplin, what is one specific action our training team should take this week to get Joplin's numbers up?
-
 **Description:** I built a simulated L&D pipeline in Excel using Power Query to merge an HR roster with LMS training data for a new Customer Service training module. Utilizing AI to generate a realistic dataset, I constructed Pivot Tables to calculate completions, track training compliance, and analyze performance gaps. In this project, I acted as a Learning and Development Analyst who was tasked with interpreting the data to deliver actionable insights and strategic recommendations.
 
 **Skills:** data cleaning, data analysis, data visualization.
