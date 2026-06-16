@@ -41,7 +41,7 @@ Featured data projects showcasing practical applications of data cleaning, explo
 
 **Results:** While regional training compliance for the new Customer Service Module is strong across the board (averaging over 85%), the Joplin district is experiencing a severe completion deficit, currently sitting at just 33%. Data indicates this is primarily a local implementation or communication issue rather than a staffing constraint.
 
-Key Data Insights:
+####Key Data Insights:
 Springfield & Branson Leading: Springfield (86%) and Branson (85%) have successfully integrated the training. Notably, Branson achieved an 85% completion rate despite having a smaller total headcount than Joplin, indicating that current store staffing levels are sufficient to allow for training time.
 The Joplin Stagnation: Joplin currently has 45 employees stuck "In Progress" and 35 who have "Not Started." This high volume of incomplete statuses suggests a gap in local management prioritization or a lack of structured, dedicated floor time for employees to finish the modules.
 
