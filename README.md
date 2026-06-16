@@ -26,7 +26,7 @@ My Resume [pdf](https://drive.google.com/file/d/1fAqO8q3wYzrEVYtQYT37omCQZeqKyFX
 
 ## Portfolio Projects
 
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+Featured data projects showcasing practical applications of data cleaning, exploratory analysis, and interactive dashboard creation. Click into any project to view the underlying code, technical stack, and final strategic insights.
 
 ### EXAMPLE
 **Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
