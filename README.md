@@ -11,6 +11,8 @@ I thrive on the thrill of discovering hidden patterns in data and translating th
 My Resume [pdf](https://drive.google.com/file/d/1fAqO8q3wYzrEVYtQYT37omCQZeqKyFXK/view?usp=sharing).
 
 
+
+
 ## Portfolio Projects
 
 Featured data projects showcasing practical applications of data cleaning, exploratory analysis, and interactive dashboard creation. Click into any project to view the underlying code, technical stack, and final strategic insights.
@@ -40,6 +42,9 @@ Longitudinal Follow-up: Re-run the Power Query pipeline on [Insert Date - 2 week
 **Visualizations:**
 The Scatter Plot Story: The scatter plot shows a general upward-sloping trend, confirming that employees who spent more time generally scored higher. However, it also exposes key exceptions. There is a dense cluster of "highly efficient learners" who spent only 25 to 35 minutes but achieved perfect scores of $100\%$. Crucially, you can see a small group of isolated dots in the bottom-left corner—users who rushed through the test in under 20 minutes and scored below 60%. This proves that low scores are strongly correlated with low time investment.
 The Histogram Story: The histogram shows a heavily right-skewed (negatively skewed) distribution. The tallest bars are clustered tightly between 85% and 100%, showing that the vast majority of the company understood the material perfectly. This visual tells the VP that the training program is highly effective for about 90% of the workforce, and that the 88% average isn't a fake metric driven by widespread guessing—it represents genuine master-level performance from most employees.
+
+
+
 
 ### Evaluating the Financial Impact of a Training Program
 **File:** [Excel](https://docs.google.com/spreadsheets/d/1oBVcIsIJUAF0cUen84owDYgzx2uzYaYTcTBHfdHZsRQ/edit?usp=sharing)
