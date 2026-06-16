@@ -57,7 +57,7 @@ In this project, I simulated a common corporate Learning & Development challenge
 **Technology:** Mircosoft Excel, Power Query (Data trasnformation & merging), AI Generation (Dataset simulation), Pivot Tables (Aggregation), Data Visualization (Conditional formatting and charts)
 
 ### Results:
-While it's true the market experienced seasonal variance, the Control group proves that this was minimal. The stores that participated in the training program outpaced the seasonal variance by significant amount, a 23% increase from 3.5%. The Trained stores grew by an average of $12,500/month, while the Control stores only grew by an average of $1,500/month. 
+While it's true the market experienced seasonal variance, the Control group proves that this was minimal. The stores that participated in the training program outpaced the seasonal variance by significant amount, a 23% increase from 3.5%. The Trained stores grew by an average of $12,500 per month, while the Control stores only grew by an average of $1,500 per month. 
 
 ### Key Data Insights:
 The Training Premium: Stores that participated in the training program achieved an average monthly sales growth of 26.5% (an average increase of $12,500 per store). 
