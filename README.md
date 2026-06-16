@@ -10,19 +10,6 @@ I thrive on the thrill of discovering hidden patterns in data and translating th
 
 My Resume [pdf](https://drive.google.com/file/d/1fAqO8q3wYzrEVYtQYT37omCQZeqKyFXK/view?usp=sharing).
 
-## Table of Contents
-- [About](https://github.com/hlooney/Hailey-Wolfe-Data-Analyst-Portfolio/edit/main/README.md#about)
-- [Portfolio Projects](https://github.com/hlooney/Hailey-Wolfe-Data-Analyst-Portfolio/edit/main/README.md#portfolio-projects)
-  - Python
-      - [NAME](LINK)  
-  - SQL
-     - [NAME](LINK)  
-  - Excel / Google Sheets
-     - [The "Springfield vs. Joplin" Training Crisis](LINK)  
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/hailey.wolfe)
-  - Power BI
-     - [NAME](LINK) 
-
 
 ## Portfolio Projects
 
