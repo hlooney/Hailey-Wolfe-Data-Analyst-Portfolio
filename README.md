@@ -13,11 +13,7 @@ My Resume [pdf](https://drive.google.com/file/d/1fAqO8q3wYzrEVYtQYT37omCQZeqKyFX
 
 
 
-## Portfolio Projects
-
-Featured data projects showcasing practical applications of data cleaning, exploratory analysis, and interactive dashboard creation. Click into any project to view the underlying code, technical stack, and final strategic insights.
-
-### The Joplin Training Crisis
+## The Joplin Training Crisis
 **File:** [Excel](https://docs.google.com/spreadsheets/d/1ORxnEXegySIN_Pi-a5LdiLItZJeU-mGtRoUGLrewDgI/edit?usp=sharing)
 
 **Goal:** Analyze and interpret training compliance data for a new Customer Service Training Module by merging disjointed HR and LMS datasets.
@@ -30,7 +26,7 @@ Featured data projects showcasing practical applications of data cleaning, explo
 
 **Results:** While regional training compliance for the new Customer Service Module is strong across the board (averaging over 85%), the Joplin district is experiencing a severe completion deficit, currently sitting at just 33%. Data indicates this is primarily a local implementation or communication issue rather than a staffing constraint.
 
-**Key Data Insights:**
+### Key Data Insights:
 Springfield & Branson Leading: Springfield (86%) and Branson (85%) have successfully integrated the training. Notably, Branson achieved an 85% completion rate despite having a smaller total headcount than Joplin, indicating that current store staffing levels are sufficient to allow for training time.
 The Joplin Stagnation: Joplin currently has 45 employees stuck "In Progress" and 35 who have "Not Started." This high volume of incomplete statuses suggests a gap in local management prioritization or a lack of structured, dedicated floor time for employees to finish the modules.
 
@@ -46,7 +42,7 @@ The Histogram Story: The histogram shows a heavily right-skewed (negatively skew
 
 
 
-### Evaluating the Financial Impact of a Training Program
+## Evaluating the Financial Impact of a Training Program
 **File:** [Excel](https://docs.google.com/spreadsheets/d/1oBVcIsIJUAF0cUen84owDYgzx2uzYaYTcTBHfdHZsRQ/edit?usp=sharing)
 
 **Goal:** Evaluate the financial effectiveness of a newly launched Advanced Commercial Sales Training program and determine if the initiative drove meaningful revenue growth or if observed increases were merely the result of standard seasonal variance.
@@ -59,7 +55,7 @@ The Histogram Story: The histogram shows a heavily right-skewed (negatively skew
 
 **Results:** While it's true the market experienced seasonal variance, the Control group proves that this was minimal. The stores that participated in the training program outpaced the seasonal variance by significant amount, a 23% increase from 3.5%. The Trained stores grew by an average of $12,500/month, while the Control stores only grew by an average of $1,500/month. 
 
-**Key Data Insights:**
+### Key Data Insights:
 The Training Premium: Stores that participated in the training program achieved an average monthly sales growth of 26.5% (an average increase of $12,500 per store). 
 Disproving Market Seasonality: The Control Group (no training) only experienced a natural market lift of 3.5% (an average increase of $1,500 per store).
 The Net Delta: The trained stores outpaced the standard market growth by a net 23%, proving a strong causal relationship between the L&D curriculum and increased commercial sales.
