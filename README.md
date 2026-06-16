@@ -18,7 +18,7 @@ My Resume [pdf](https://drive.google.com/file/d/1fAqO8q3wYzrEVYtQYT37omCQZeqKyFX
   - SQL
      - [NAME](LINK)  
   - Excel / Google Sheets
-     - [NAME](LINK)  
+     - [The "Springfield vs. Joplin" Training Crisis](LINK)  
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/hailey.wolfe)
   - Power BI
      - [NAME](LINK) 
@@ -28,16 +28,31 @@ My Resume [pdf](https://drive.google.com/file/d/1fAqO8q3wYzrEVYtQYT37omCQZeqKyFX
 
 Featured data projects showcasing practical applications of data cleaning, exploratory analysis, and interactive dashboard creation. Click into any project to view the underlying code, technical stack, and final strategic insights.
 
-### EXAMPLE
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### The Joplin Training Crisis
+**File:** [Excel](https://docs.google.com/spreadsheets/d/1ORxnEXegySIN_Pi-a5LdiLItZJeU-mGtRoUGLrewDgI/edit?usp=sharing)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** Analyze and interpret training compliance data for a new Customer Service Training Module by merging disjointed HR and LMS datasets.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+In order to complete this objective, I will use the data to answer the following questions:
+1. What are the actual Completion Rates (percentages) for each district? Who is performing better?
+2. Joplin's completed number looks really low compared to Springfield. Looking at their other columns (In Progress vs. Not Started), what does that tell you about why Joplin is falling behind?
+3. Based on your analysis of Joplin, what is one specific action our training team should take this week to get Joplin's numbers up?
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Description:** I built a simulated L&D pipeline in Excel using Power Query to merge an HR roster with LMS training data for a new Customer Service training module. Utilizing AI to generate a realistic dataset, I constructed Pivot Tables to calculate completions, track training compliance, and analyze performance gaps. In this project, I acted as a Learning and Development Analyst who was tasked with interpreting the data to deliver actionable insights and strategic recommendations.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Skills:** data cleaning, data analysis, data visualization.
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Technology:** Mircosoft Excel, Power Query (Data modeling & merging), AI Generation (Dataset simulation), Pivot Tables (Aggregation)
+
+**Results:** While regional training compliance for the new Customer Service Module is strong across the board (averaging over 85%), the Joplin district is experiencing a severe completion deficit, currently sitting at just 33%. Data indicates this is primarily a local implementation or communication issue rather than a staffing constraint.
+
+Key Data Insights:
+Springfield & Branson Leading: Springfield (86%) and Branson (85%) have successfully integrated the training. Notably, Branson achieved an 85% completion rate despite having a smaller total headcount than Joplin, indicating that current store staffing levels are sufficient to allow for training time.
+The Joplin Stagnation: Joplin currently has 45 employees stuck "In Progress" and 35 who have "Not Started." This high volume of incomplete statuses suggests a gap in local management prioritization or a lack of structured, dedicated floor time for employees to finish the modules.
+
+Recommended Actions:
+Targeted Management Alignment: Partner with the Joplin District Manager this week to communicate the operational importance of this module and establish dedicated, uninterrupted computer blocks for the 45 "In Progress" employees.
+Establish a Compliance Deadline: Implement a firm two-week completion deadline for the district to bring Joplin in line with the corporate benchmark of 80% minimum compliance.
+Longitudinal Follow-up: Re-run the Power Query pipeline on [Insert Date - 2 weeks out] to measure growth velocity and report progress back to leadership.
+
 
